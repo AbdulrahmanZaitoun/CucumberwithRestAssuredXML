@@ -1,0 +1,33 @@
+################################################################################################################################################
+Detected SHAFT Engine Version: [SHAFT Engine v5.3.20210519]
+################################################################################################################################################
+
+################################################################################################################################################
+Starting Execution:	[1 out of 3] test cases in the current suite
+Test Method:		[gluecode.TestStepsColourPatterns.executeColourLoversPatternsAPI]
+################################################################################################################################################
+
+################################################################################################################################################
+Starting Execution:	[2 out of 3] test cases in the current suite
+Test Method:		[gluecode.TestStepsColourPatterns.getColoursPatters]
+################################################################################################################################################
+
+################################################################################################################################################
+Starting Execution:	[3 out of 3] test cases in the current suite
+Test Method:		[gluecode.TestStepsColourPatterns.submitColoursPatternsAPI]
+################################################################################################################################################
+[ReportManager] Response status code: [200], status line: [HTTP/1.1 200 OK] @28-06-2021 13:36:48.0541 PM
+[ReportManager] Assertion Passed: Evaluating the actual response status code against the expected one... @28-06-2021 13:36:48.0569 PM
+[ReportManager] Assertion [ValidateEquals] PASSED. Expected [200] and Actual [200]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @28-06-2021 13:36:48.0570 PM
+[ReportManager] API Action [PerformRequest] successfully performed. With the following test data [Request Type: "GET" | Target Status Code: "200" | Service URL: "http://www.colourlovers.com/api/patterns" | Content Type: "application/xml" | Response Time: "1103ms"]. @28-06-2021 13:36:48.0771 PM
+[ReportManager] Successfully created attachment [API Response - Body] @28-06-2021 13:36:48.0773 PM
+
+################################################################################################################################################
+Test Closure Activities
+################################################################################################################################################
+[ReportManager] Successfully created attachment [SHAFT Engine Logs - Execution log] @28-06-2021 13:36:49.0818 PM
+
+################################################################################################################################################
+This test run was powered by SHAFT Engine Version: [SHAFT Engine v5.3.20210519]
+SHAFT Engine is licensed under the MIT License: [https://github.com/MohabMohie/SHAFT_ENGINE/blob/master/LICENSE].
+################################################################################################################################################
